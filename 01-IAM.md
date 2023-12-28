@@ -1,4 +1,4 @@
-# Day 0: IAM (Identity and Access Management)
+# IAM (Identity and Access Management)
 
 ## Introduction to IAM
 
